@@ -1,2 +1,2 @@
 # JenkinsPipeline
-created maven project
+created 7 stages pipeline
