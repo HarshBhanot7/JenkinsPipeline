@@ -1,2 +1,2 @@
 # JenkinsPipeline
-created maven
+created maven project
